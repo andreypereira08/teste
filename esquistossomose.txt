@@ -1,0 +1,63 @@
+			esquistossomose - parasitologia
+
+é um endoparasita
+100 milhões de brasileiros não saneamento básico
+5 milhões de casos no brasil de esquistossomose
+caracteristicas dos locais de influencias: saneamento básico inadequado, 
+
+
+
+Helminto: filo platelmintos
+	  classe trematoda
+
+
+especies:
+	 schistosoma mansoni (brasil)
+	 S. harmotoluum (áfrica)
+	 S. japonicum (ásia)
+
+*são dióicos
+*são auto dimorfismo sexual (há diferença entre o individuo feminino e masculino)
+*se nutrem de sangue
+
+*hospedeiro definitivo (hd) --> ser humano
+*hospedeiro intermediário (hi) --> caramujo Biomphalaria glabrata
+
+*orgão de eleição --> sistema porta hepático
+*burlam nosso sistema imunológico
+*relação parasitista:
+	o hospedeiro perde nessa relação ecologica desarmonica interespecificas e o parasita ganha; abrigo e os nutrientes adquiridos sobre o hospedeiro.
+
+*ovos de esquistossomose tem esporão, um espinho lateral
+
+processo: 
+	fezes que contem ovos despejados em na água
+	ovos eclodem e dão lugar aos miracidios em ambiente aquático
+	miracidios atraem-se pela substancia emitida pelo caramujo biomphalaria glabrata (eles 8 horas para alcançar tal caramujo, se não ele morre)
+	dentro do caramujo, ele tranforma-se,através de enzimas, em um esporocisto. podendo ser até 400 cercarias em um unico caramujo	
+	cercarias são liberadas para penetrar nas pessoas 
+		
+
+ciclo heteroxênico (dois hospedeiros: hd e hi)
+
+sintomas: 
+ - dermatite cercariana (causadasd pelas cercaria)
+ - aguda: febre, diarreia, vomito, tosse seca
+ - cronica: ascite, aumento do figado e baço
+ - ectópica: neuroesquistossomose
+
+profilaxia: 
+ - tratar os doentes
+ - saneamento básico
+ - combate ao caramujo
+ - educação sanitária
+ - não entrar em rios (alguns rios)
+ - sinalização (placas para indicar esses rios)
+ - vacinação (sendo criada pela fiocruz)
+
+*diagnostico: exame de fezes, diagnóstico elisa, exame clínico,  teste de anticorpos, ultrassonografia em casos graves.
+
+*tratamento: Praziquantel para casos simples, internação hospitalar ou tratamento cirurgico em casos graves.
+
+vetores: caramujo Biomphalaria glabrata
+agente etiológico: Schistosoma mansoni

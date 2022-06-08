@@ -16,6 +16,11 @@ especies:
 	 S. harmotoluum (áfrica)
 	 S. japonicum (ásia)
 
+
+
+
+
+
 *são dióicos
 *são auto dimorfismo sexual (há diferença entre o individuo feminino e masculino)
 *se nutrem de sangue
@@ -30,6 +35,11 @@ especies:
 
 *ovos de esquistossomose tem esporão, um espinho lateral
 
+
+
+
+
+
 processo: 
 	fezes que contem ovos despejados em na água
 	ovos eclodem e dão lugar aos miracidios em ambiente aquático
@@ -40,6 +50,12 @@ processo:
 
 ciclo heteroxênico (dois hospedeiros: hd e hi)
 
+
+
+
+
+
+
 sintomas: 
  - dermatite cercariana (causadasd pelas cercaria)
  - aguda: febre, diarreia, vomito, tosse seca
@@ -48,16 +64,69 @@ sintomas:
 
 profilaxia: 
  - tratar os doentes
- - saneamento básico
+ - garantir saneamento básico para as pessoas
  - combate ao caramujo
- - educação sanitária
+ - promover educação sanitária
  - não entrar em rios (alguns rios)
  - sinalização (placas para indicar esses rios)
  - vacinação (sendo criada pela fiocruz)
 
 *diagnostico: exame de fezes, diagnóstico elisa, exame clínico,  teste de anticorpos, ultrassonografia em casos graves.
 
-*tratamento: Praziquantel para casos simples, internação hospitalar ou tratamento cirurgico em casos graves.
+*tratamento: Praziquantel e oxamniquina para casos simples, internação hospitalar ou tratamento cirurgico em casos graves.
 
 vetores: caramujo Biomphalaria glabrata
 agente etiológico: Schistosoma mansoni
+
+
+
+
+
+
+
+
+
+
+ficam localizados nas veias do figado do homem
+ventosas
+macho joga espermatozoide no canal ginecóforo, depois atinge o poro genital da femea. Após, promovendo o processo de fecundação (reprodução sexuada)
+há troca de material genetico
+
+zigoto e embrião são formados na fecundação, embrião é envolvido por um ovo.
+
+ovo com espinho, qual perfura os vasos sanguineos do figado e do intestino fazendo cair na cavidade intestinal. No intestino, o ovo vai percorrer todo o sistema digestório e vai ser eliminado junto com as fezes
+
+
+em ambiente aquatico, os ovos eclodem formando larvas (miracidios).
+/miracidio penetra o caramujo e sofre tranformações 
+
+
+
+
+
+enquanto estão migrando, os schistosoma mansoni capturam glicocalix de celulas do corpo e incorporam na sua superficie, assim burlando o sistema imunologico
+
+enzimas digestivas possibilitam as cercarias de corroer a pele dos humanos
+quando a cercaria penetra na pessoa a cauda cai fora
+
+corrente saguinea --> coração --> pulmão --> pelas veias --> figado
+
+no figado seu desenvolvimento dá continuidade
+
+endoparasita
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+saneamento básico
